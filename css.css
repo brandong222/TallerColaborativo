@@ -1,0 +1,16 @@
+*{ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/*estilos del header*/
+header {
+
+    background-color: red;
+    padding: 5px;    
+  }
+  
+  header p {
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+    font-size: 50px;
+  }
