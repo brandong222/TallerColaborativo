@@ -4,6 +4,7 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 header {
+  margin-bottom: 50px;
   background-color: red;
   color: white;
   padding: 5px;   
@@ -12,5 +13,23 @@ header {
 header p {
   text-align: center;
   margin: 0 auto;
-  font-size: 40px;
+  font-size: 30px;
+}
+.contenedor-home {
+  size: 10%;
+margin: auto;
+display: flex;
+justify-content: center;
+width: 80%;
+height: 60%;
+border: 2px solid grey;
+}
+
+.imagen-centrada{
+    margin-top: 20px;
+  margin-bottom: 20px;
+}
+img {
+  width: 65%;
+  height: 65%;
 }
